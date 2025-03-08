@@ -84,8 +84,7 @@ curl -X POST http://127.0.0.1:5000/predict \
 
 ## 📜 Report & Documentation
 - **Steps Taken**: Data preprocessing, model selection, optimization, and deployment strategies.
-- **GitHub Repository**: [Project Link](https://github.com/your-repo)
-- **Authors**: [Your Name]
+- **Authors**: Mohesh T
 
 ---
 
